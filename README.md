@@ -22,7 +22,7 @@
 ###
 <p>🔹 Passionate about building scalable full-stack applications.</p>
 <p>🔹 Love contributing to **open-source** projects & learning new technologies.</p
-<p>🔹 Currently diving deep into **Spring Boot & Next.js** for real-world applications. </p>>
+<p>🔹 Currently diving deep into **Spring Boot & Next.js** for real-world applications. </p>
 <p align="left"> 📚 I'm currently learning Python</p>
 
 ###
