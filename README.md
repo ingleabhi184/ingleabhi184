@@ -20,8 +20,10 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">I'm Abhijit from India<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning Python</p>
+<p>🔹 Passionate about building scalable full-stack applications.</p>
+<p>🔹 Love contributing to **open-source** projects & learning new technologies.  <br/>
+🔹 Currently diving deep into **Spring Boot & Next.js** for real-world applications. </p>>
+<p align="left"> 📚 I'm currently learning Python</p>
 
 ###
 
